@@ -33,8 +33,8 @@ This section describes how to install the plugin and get it working.
 1. Download `simple-facebook-page-widget.zip`.
 2. Upload `simple-facebook-page-widget` plugin to the `/wp-content/plugins/` directory through the WordPress plugin interface.
 3. Activate the plugin through the `Plugins` menu in WordPress.
-4a. `Optional:` Add a Simple Facebook Page Widget from the `Appearance -> Widgets` menu in WordPress.
-4b. `Optional:` Add a [facebook-page href="facebook"] shortcode inside of a page or post.
+4. `Optional:` Add a Simple Facebook Page Widget from the `Appearance -> Widgets` menu in WordPress.
+5. `Optional:` Add a [facebook-page href="facebook"] shortcode inside of a page or post.
 
 == Frequently Asked Questions ==
 
