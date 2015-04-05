@@ -1,1 +1,1 @@
-<?php //meow
+<?php //Silence is golden
