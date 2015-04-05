@@ -48,7 +48,10 @@ Email me directly at drryan@ncsu.edu with legitimate questions.
 
 == Screenshots ==
 
-[https://developers.facebook.com/docs/plugins/page-plugin](https://developers.facebook.com/docs/plugins/page-plugin)
+1. Frontend view of the Facebook Page widget.
+2. Backend view of the Facebook Page widget.
+3. Frontend view of the Facebook Page shortcode.
+4. Backend view of the Facebook Page shortcode.
 
 == Changelog ==
 
