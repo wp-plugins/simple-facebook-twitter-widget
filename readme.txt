@@ -68,4 +68,5 @@ This plugin was developed to be used free of charge; however, if you do wish to 
 
 == Upgrade Notice ==
 
-There are currently no previous versions of this plugin.
+= 1.1.0 =
+* Added support for Spanish / Añadido soporte para español
