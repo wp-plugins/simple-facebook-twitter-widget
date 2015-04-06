@@ -4,7 +4,7 @@ Donate link: https://donorbox.org/dylan-ryan-simple-facebook-page-widget
 Tags: facebook, widget, shortcode, facebook page, facebook widget, facebook page widget, facebook page shortcode, social media
 Requires at least: 3.0.0
 Tested up to: 4.1.1
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
@@ -57,6 +57,9 @@ Currently, no. In the future, perhaps.
 4. Backend view of the Facebook Page shortcode.
 
 == Changelog ==
+
+= 1.1.1 =
+* Fixed screenshot bug
 
 = 1.1.0 =
 * i18n Support
