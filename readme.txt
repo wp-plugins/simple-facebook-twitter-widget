@@ -16,8 +16,11 @@ This plugin uses Facebook Graph API v2.3 to generate a Facebook Page feed. Many 
 
 <strong>Widget Instructions</strong><br>
 1. Add a customizable Facebook widget through `Appearance -> Widgets`
+
 2. Choose *Simple Facebook Page Widget*.
+
 3. Update the *Facebook Page URL* and click `Save`.
+
 4. See the [screenshots](https://wordpress.org/plugins/simple-facebook-twitter-widget/screenshots/) for examples.
 
 <strong>Shortcode Instructions</strong><br>
