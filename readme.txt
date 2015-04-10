@@ -20,10 +20,10 @@ Update the “Facebook Page URL” and click `Save`.
 See the [screenshots](https://wordpress.org/plugins/simple-facebook-twitter-widget/screenshots/) for examples.
 
 <strong>Shortcode Instructions</strong><br>
-Base Shortcode Example:<br>
+Base Shortcode Example:
 > `[facebook-page href="facebook"]`
-<br>
-Custom Shortcode Example:<br>
+
+Custom Shortcode Example:
 > `[facebook-page href="facebook" width="300" height="800" hide_cover="false" show_facepile="false" show_posts="true"]`
 
 **Note:** If your *Facebook Page URL* is https://facebook.com/facebook then please enter `facebook` as the href argument.
@@ -32,7 +32,7 @@ Custom Shortcode Example:<br>
 
 Support is offered on the [WordPress Support Forum](https://wordpress.org/support/plugin/simple-facebook-twitter-widget) for free, but please provide as much detail as possible as well as a link to where the issue is occurring. If you are comfortable with GitHub, then feel free to submit an [issue](https://github.com/irkanu/simple-facebook-page-widget/issues). I’ll do my best to answer all support threads and issues.
 
-> = Donations =
+> <strong>Donations</strong>
 >
 > This plugin was developed to be used free of charge; however, if you do wish to donate, then you can visit the [secure donation page](https://donorbox.org/dylan-ryan-simple-facebook-page-widget).
 
