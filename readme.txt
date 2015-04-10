@@ -14,14 +14,14 @@ Easily display Facebook's new Page feed using a widget or shortcode.
 = Overview =
 This plugin uses Facebook Graph API v2.3 to generate a Facebook Page feed. Many sites are currently running Facebook Like Boxes which will become **deprecated on June 23rd, 2015**. The Page Plugin lets you easily embed and promote any Facebook Page on your website. Just like on Facebook, your visitors can like and share the Page without having to leave your site.
 
-<strong>Widget Instructions</strong><br>
+= Widget Instructions =
 1. Add a customizable Facebook widget through `Appearance -> Widgets`.
 2. Choose *Simple Facebook Page Widget*.
-3. Update the *Facebook Page URL* and click `Save`.
+3. Update the *Facebook Page URL* and click Save.
 4. See the [screenshots](https://wordpress.org/plugins/simple-facebook-twitter-widget/screenshots/) for examples.
 
-<strong>Shortcode Instructions</strong><br>
-Base Shortcode Example:
+= Shortcode Instructions =
+Basic Shortcode Example:
 > `[facebook-page href="facebook"]`
 
 Custom Shortcode Example:
@@ -34,7 +34,6 @@ Custom Shortcode Example:
 Support is offered on the [WordPress Support Forum](https://wordpress.org/support/plugin/simple-facebook-twitter-widget) for free, but please provide as much detail as possible as well as a link to where the issue is occurring. If you are comfortable with GitHub, then feel free to submit an [issue](https://github.com/irkanu/simple-facebook-page-widget/issues). I’ll do my best to answer all support threads and issues.
 
 > <strong>Donations</strong>
->
 > This plugin was developed to be used free of charge; however, if you do wish to donate, then you can visit the [secure donation page](https://donorbox.org/dylan-ryan-simple-facebook-page-widget).
 
 == Installation ==
