@@ -49,6 +49,18 @@ This section describes how to install the plugin and get it working.
 
 == Frequently Asked Questions ==
 
+= Can you make this plugin responsive? =
+
+Yes and no. The minimum width of this widget is 280px and the maximum is 500px. The minimum height is 130px. This is set by Facebook & I have no control over it. If you figure out a way to hack this, then please submit a [pull request](https://github.com/irkanu/simple-facebook-page-widget). :)
+
+= Is your plugin going to work if someone from another country visits my site? =
+
+It depends. Some countries block websites like Twitter & Facebook, so this widget may not work for international viewers. However, if there is interest in a fallback in the scenario in which this happens, then I’ll consider it.
+
+= Does the visitor have to be logged in to Facebook to see the widget? =
+
+Currently, yes. Please see this [support thread](https://wordpress.org/support/topic/unowned-facebook-pages-are-not-supported) to understand why. Again, if there is interest in a fallback in the scenario in which this happens, I’ll be happy to consider it.
+
 = Do I have to create my own custom Facebook App? =
 
 Currently, no. In the future, perhaps.
