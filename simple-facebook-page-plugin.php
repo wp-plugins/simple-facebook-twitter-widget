@@ -113,5 +113,5 @@ function sfpp_shortcode( $atts ) {
  */
 require_once( 'includes/class-simple-facebook-page-plugin-widget.php' );
 add_action( 'widgets_init', function () {
-    create_function('', 'return register_widget("SFPP_Widget");');
+	register_widget( 'SFPP_Widget' );
 } );
