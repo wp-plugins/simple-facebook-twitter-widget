@@ -17,6 +17,10 @@ This plugin uses Facebook Graph API v2.3 to generate a Facebook Page feed. Many 
 > <strong>Food For Thought:</strong><br>
 > Imagine the WordPress plugin repository was like iTunes & each plugin only cost $1.29. If you feel like this plugin or I have helped you, then why not [drop $1.29](https://donorbox.org/dylan-ryan-simple-facebook-page-widget) for my efforts. All proceeds go to continued support and development of this plugin and future plugins.
 
+= Support =
+
+Support is offered on the [WordPress Support Forum](https://wordpress.org/support/plugin/simple-facebook-twitter-widget) for free, but please provide as much detail as possible as well as a link to where the issue is occurring. If you are comfortable with GitHub, then feel free to submit an [issue](https://github.com/irkanu/simple-facebook-page-widget/issues). I'll do my best to answer all support threads and issues.
+
 = Widget Instructions =
 1. Add a customizable Facebook widget through Appearance -> Widgets.
 2. Choose *Simple Facebook Page Widget*.
@@ -35,10 +39,6 @@ Custom Shortcode Example:
 
 **Note:** If your *Facebook Page URL* is https://facebook.com/facebook then please enter `facebook` as the href argument.
 
-= Support =
-
-Support is offered on the [WordPress Support Forum](https://wordpress.org/support/plugin/simple-facebook-twitter-widget) for free, but please provide as much detail as possible as well as a link to where the issue is occurring. If you are comfortable with GitHub, then feel free to submit an [issue](https://github.com/irkanu/simple-facebook-page-widget/issues). I'll do my best to answer all support threads and issues.
-
 == Installation ==
 
 = Automatic Installation =
@@ -55,13 +55,9 @@ The manual installation method involves downloading the plugin and uploading it 
 
 It is recommended that you keep this plugin up-to-date. This plugin utilizes [Semantic Versioning](http://semver.org/).
 
-= Adding a Simple Facebook Page Widget =
+See the [plugin description](https://wordpress.org/plugins/simple-facebook-twitter-widget/) for instructions.
 
-Add a Simple Facebook Page Widget from the Appearance -> Widgets menu within WordPress.
-
-= Adding A Simple Facebook Page Shortcode =
-
-Add a [facebook-page href="facebook"] shortcode inside of a page or post.
+See the [screenshots](https://wordpress.org/plugins/simple-facebook-twitter-widget/screenshots/) for examples.
 
 == Frequently Asked Questions ==
 
