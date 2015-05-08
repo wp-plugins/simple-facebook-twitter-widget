@@ -3,7 +3,7 @@ Contributors: irkanu
 Donate link: https://donorbox.org/dylan-ryan-simple-facebook-page-widget
 Tags: facebook, widget, plugin, page, feed, shortcode, facebook page, facebook widget, facebook shortcode, facebook page widget, facebook page shortcode, social media
 Requires at least: 3.0.0
-Tested up to: 4.2.0
+Tested up to: 4.2.2
 Stable tag: 1.3.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
