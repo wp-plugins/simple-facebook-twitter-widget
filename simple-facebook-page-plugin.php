@@ -98,12 +98,7 @@ define( 'SIMPLE_FACEBOOK_PAGE_INSTALL_DATE',    'sfpp-install-date' );
  *
  * @modified 1.4.5 Added defaults.
  */
-$sfpp_defaults = array(
-    'language'  =>  'en_US',
-    'app_id'    =>  '872972519428691'
-);
-$options = get_option( 'sfpp_settings' );
-$sfpp_options = wp_parse_args( $options, $sfpp_defaults);
+$sfpp_options = get_option( 'sfpp_settings' );
 
 
 /**
@@ -398,7 +393,7 @@ function sfpp_language_select_callback() {
 
 	global $sfpp_options;
 
-	//$sfpp_options['language'] = isset( $sfpp_options['language'] ) && ! empty( $sfpp_options['language'] ) ? $sfpp_options['language'] : 'en_US';
+	$sfpp_options['language'] = isset( $sfpp_options['language'] ) && ! empty( $sfpp_options['language'] ) ? $sfpp_options['language'] : 'en_US';
 
 	?>
 
