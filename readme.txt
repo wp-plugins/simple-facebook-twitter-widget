@@ -4,7 +4,7 @@ Donate link: https://donorbox.org/dylan-ryan-simple-facebook-page-widget
 Tags: facebook, social, widget, plugin, page, feed, shortcode, facebook page, facebook widget, facebook shortcode, facebook page widget, facebook page shortcode, social media, social widget, social shortcode, free, wordpress
 Requires at least: 3.0.0
 Tested up to: 4.2.3
-Stable tag: 1.4.6
+Stable tag: 1.4.7
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
@@ -83,6 +83,10 @@ Nope, but you can if you'd like.
 
 == Changelog ==
 
+= 1.4.7 =
+* Performance optimization (Facebook script called asynchronously.)
+* Code cleanup
+
 = 1.4.6 =
 * Fixed undefined index
 
@@ -136,6 +140,9 @@ Nope, but you can if you'd like.
 * Widget & Shortcode Fully Functional
 
 == Upgrade Notice ==
+
+= 1.4.7 =
+* IMPORTANT: Major performance boost on Facebook script. (It's now called asynchronously!)
 
 = 1.4.3 =
 * IMPORTANT: Please update to fix widget alignment outputting invalid HTML.
