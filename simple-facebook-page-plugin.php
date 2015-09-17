@@ -608,18 +608,6 @@ function sfpp_options_page() {
                 </div>
             </div>
 
-			<div id="banner">
-				<a href="http://www.siteground.com" onClick="this.href='http://bit.ly/1FffXrN'" >
-					<img src="https://ua.siteground.com/img/banners/application/wordpress/250x250.gif" alt="Web Hosting" width="250" height="250" border="0">
-				</a>
-			</div>
-
-			<div id="banner">
-				<a href="http://www.csshero.org" onClick="this.href='http://bit.ly/1Flr6sW'">
-					<img src="http://www.csshero.org/banners/250x250_01.png" alt="WordPress Theme Editor" width="250" height="250" border="0">
-				</a>
-			</div>
-
 		</div>
 
 	</div>
